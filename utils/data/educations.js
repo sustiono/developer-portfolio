@@ -1,20 +1,26 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor of Informatics Engineering",
+    duration: "2010 - 2015",
+    institution: "State Islamic University of Sunan Gunung Djati Bandung",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "EF Level 4 - Elementary - CEFR Level A2",
+    duration: "Oct 2017",
+    institution: "English First",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+    title: "EF Level 5 - Elementary - CEFR Level A2",
+    duration: "Jan 2018",
+    institution: "English First",
+  },
+  {
+    id: 4,
+    title: "EF Level 6 - Elementary - CEFR Level A2",
+    duration: "Apr 2018",
+    institution: "English First",
+  },
+];
