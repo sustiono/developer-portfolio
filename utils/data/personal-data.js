@@ -3,7 +3,7 @@ export const personalData = {
   profile: "/profile.jpeg",
   designation: "Software Developer",
   description:
-    "Hi there! I'm SUSTIONO, a passionate Front End Developer with a knack for crafting seamless user experiences. Since diving into the world of web development in 2016, I've honed my skills in React.js, Next.js, JavaScript, and TypeScript. Whether it's building responsive interfaces or optimizing performance, I love turning complex problems into elegant solutions. When I'm not coding, you can find me exploring the latest tech trends or working on cool side projects. Let's create something amazing together!",
+    "Hi there! I'm SUSTIONO, a passionate Front End Developer with a knack for crafting seamless user experiences. Since diving into the world of web development in 2016, I've honed my skills in React.js, NextJS, JavaScript, and TypeScript. Whether it's building responsive interfaces or optimizing performance, I love turning complex problems into elegant solutions. When I'm not coding, you can find me exploring the latest tech trends or working on cool side projects. Let's create something amazing together!",
   email: "sustiono19@gmail.com",
   phone: "+6285223085630",
   address: "Pangandaran, Jawa Barat, Indonesia - 46396 ",
